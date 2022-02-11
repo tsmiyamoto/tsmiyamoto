@@ -4,10 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsmiyamoto&count_private=true&theme=prussian&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmiyamoto&theme=prussian" />
+  <img align="center" src="https://github-readme-stats-kappa-two-82.vercel.app/api/top-langs/?username=tsmiyamoto&theme=prussian" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmiyamoto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-two-82.vercel.app/api/top-langs/?username=tsmiyamoto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
