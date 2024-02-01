@@ -21,7 +21,6 @@ I'm a **VPoE** at **[TechSword](https://techsword.co.jp)**
 - Programming 👨‍💻
 - Golf ⛳
 - Tennis 🎾
-- Billiards 🎱
 - Drive 🚙
 
 ## 💼 Experience
