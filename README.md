@@ -1,5 +1,8 @@
 I'm a **VPoE** at **[TechSword](https://techsword.co.jp)**
 
+## 🔗 Links
+- [Zenn](https://zenn.dev/tsmiyamoto)
+
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nbey1sq5r-tsmiyamoto.vercel.app/api?username=tsmiyamoto&count_private=true&theme=prussian&show_icons=true" />
