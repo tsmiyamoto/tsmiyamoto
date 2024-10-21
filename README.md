@@ -28,9 +28,9 @@ I'm a **VPoE** at **[TechSword](https://techsword.co.jp)**
 
 ## 💼 Experience
 - (2019.06~2019.08) Student research intern at University of Rhode Island
-- (2021.01~2021.09) Intern at SORACOM, inc.
-- (2021.05~2022.12) CTO at TechSword
-- (2023.01~) VPoE at TechSword
+- (2021.01~2021.09) Intern at [Soracom, Inc.](https://github.com/soracom)
+- (2021.05~2022.12) CTO at [TechSword](https://github.com/TechSwordJP)
+- (2023.01~) VPoE at [TechSword](https://github.com/TechSwordJP)
 
 <!--
 **tsmiyamoto/tsmiyamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
